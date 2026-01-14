@@ -1,0 +1,8 @@
+Write here ideas for bot
+
+Trading strategies
+1. "buy the world"
+    due to llow liquidity sometimes yes will be at 60 and no will be at 39
+    since 60+39 = 99 we willl profit 1 cent on every contract, this is slow at first but can compound.
+2. corss exchange arbitrage
+    kalshi will have one "stock" 
